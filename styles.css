@@ -26,6 +26,9 @@ main{
   margin: 1em auto;
   text-align: center;
 }
+main img {
+  height: 20px;
+}
 input{
   width: 80%;
   padding: 1em;
